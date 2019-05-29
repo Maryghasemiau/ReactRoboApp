@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ReactRoboApp/static/css/main.93383f0a.chunk.css",
-    "main.js": "/ReactRoboApp/static/js/main.385395ed.chunk.js",
-    "main.js.map": "/ReactRoboApp/static/js/main.385395ed.chunk.js.map",
+    "main.css": "/ReactRoboApp/static/css/main.d3552426.chunk.css",
+    "main.js": "/ReactRoboApp/static/js/main.c523d2ba.chunk.js",
+    "main.js.map": "/ReactRoboApp/static/js/main.c523d2ba.chunk.js.map",
     "runtime~main.js": "/ReactRoboApp/static/js/runtime~main.adfa840e.js",
     "runtime~main.js.map": "/ReactRoboApp/static/js/runtime~main.adfa840e.js.map",
     "static/css/2.2ec98f22.chunk.css": "/ReactRoboApp/static/css/2.2ec98f22.chunk.css",
     "static/js/2.9f060845.chunk.js": "/ReactRoboApp/static/js/2.9f060845.chunk.js",
     "static/js/2.9f060845.chunk.js.map": "/ReactRoboApp/static/js/2.9f060845.chunk.js.map",
     "index.html": "/ReactRoboApp/index.html",
-    "precache-manifest.5f61f804dfd856179517c468ac414440.js": "/ReactRoboApp/precache-manifest.5f61f804dfd856179517c468ac414440.js",
+    "precache-manifest.22acb40d0d0ddfa8fc3aaabf7efa1a51.js": "/ReactRoboApp/precache-manifest.22acb40d0d0ddfa8fc3aaabf7efa1a51.js",
     "service-worker.js": "/ReactRoboApp/service-worker.js",
     "static/css/2.2ec98f22.chunk.css.map": "/ReactRoboApp/static/css/2.2ec98f22.chunk.css.map",
-    "static/css/main.93383f0a.chunk.css.map": "/ReactRoboApp/static/css/main.93383f0a.chunk.css.map",
+    "static/css/main.d3552426.chunk.css.map": "/ReactRoboApp/static/css/main.d3552426.chunk.css.map",
     "static/media/App.css": "/ReactRoboApp/static/media/SEGA.12a3db8b.woff"
   }
 }
